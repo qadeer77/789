@@ -1,0 +1,36 @@
+li{
+    display: inline-block;
+}
+ul{
+    word-spacing: 20px;
+    margin-left: 80px;
+    margin-top: -45px;
+}
+#abc{
+    
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(131, 163, 131);
+}
+#xyz{
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.ghi{
+    width: 90px;
+}
+#def{
+    margin-left: 190px;
+}
+.mno{
+    width: 540px;
+    background-color: #30A7D7;
+    margin-left: 190PX;
+    padding: 20px;
+}
+h2{
+    color: white;
+    font-style: italic;
+}
+
